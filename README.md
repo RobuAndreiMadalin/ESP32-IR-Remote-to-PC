@@ -18,7 +18,7 @@ Control your PC using an IR remote via ESP32 and Bluetooth.
 |-----------|-----------|
 | VCC       | 3.3V      |
 | GND       | GND       |
-| OUT       | D23       |
+| OUT       | D4       |
 
 ---
 
